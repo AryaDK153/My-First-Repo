@@ -4,4 +4,4 @@ NPM     : 2106702781
 
 Kelas   : B
 
-Hobi    : Gambar
+Hobi    : Gambar, Main Genshin
